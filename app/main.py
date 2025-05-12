@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List
-from database import Question, get_db, init_db
+from app.database import Question, get_db, init_db
 
 
 class Answer(BaseModel):
