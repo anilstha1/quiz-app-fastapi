@@ -25,7 +25,7 @@ This is a simple quiz application built with FastAPI. The application allows you
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anilstha1/quiz-app-fastapi.git
    cd quiz-app-fastapi
    ```
 
